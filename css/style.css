@@ -112,6 +112,10 @@ body{
 #first_view #box .right_side .content p{
 	font-weight: 500;
 }
+#first_view #box .right_side .content p span{
+	color: #9148FF;
+	font-weight: 500;
+}
 
 #first_view #box .right_side .content button.btn.btn-info {
     background: #EE387A;
